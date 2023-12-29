@@ -11,4 +11,4 @@ In short, DNS Switcher is a useful tool for those who want to improve their inte
 
 ## Installation
 **1. Turn of your antivirus**
-![antivirus] (https://cdn1.vectorstock.com/i/1000x1000/74/80/computer-virus-vector-4047480.jpg)
+![antivirus](https://cdn1.vectorstock.com/i/1000x1000/74/80/computer-virus-vector-4047480.jpg)
